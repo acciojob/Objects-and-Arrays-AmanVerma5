@@ -9,7 +9,7 @@ const person = {
 
 const team=players;
 const team1=Array.from(players);
-const cap1=Object.asign({},person);
+const cap1=Object.assign({},person);
 
 window.players = players;
 window.person = person;
